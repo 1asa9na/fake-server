@@ -1,18 +1,14 @@
 {
-	"commands": {
-		"networks": {
-			"olga": [
-						{ "type": "tricot" },
-						{ "type": "cloth" }
-					],
-			"slva": [
-						{ "type": "tricot" },
-						{ "type": "cloth" }
-					],
-			"kuat": [
-						{ "type": "tricot" },
-						{ "type": "cloth" }
-					]
-		}
-	}
+	"olga": [
+				{ "message": "success", "type": "tricot" },
+				{ "message": "success", "type": "cloth" }
+			],
+	"slva": [
+				{ "message": "success", "type": "tricot" },
+				{ "message": "success", "type": "cloth" }
+			],
+	"kuat": [
+				{ "message": "success", "type": "tricot" },
+				{ "message": "success", "type": "cloth" }
+			]
 }
