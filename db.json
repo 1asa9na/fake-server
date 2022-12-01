@@ -1,14 +1,47 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+	"commands":
+	{
+		"networks":
+		[
+			{
+				"Olga":
+				{
+					"id": 01,
+					"evets":
+					[
+						{
+							"type": "tricot"
+						},
+						{
+							"type": "cloth"
+						},
+					]
+				}
+			}
+			{
+				"id": 02,
+				"evets":
+				[
+					{
+						"type": "tricot"
+					},
+					{
+						"type": "cloth"
+					},
+				]
+			},
+			{
+				"id": 03,
+				"evets":
+				[
+					{
+						"type": "tricot"
+					},
+					{
+						"type": "cloth"
+					},
+				]
+			},
+		]
+	}
 }
