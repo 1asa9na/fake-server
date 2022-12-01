@@ -4,7 +4,7 @@
 		"networks":
 		[
 			{
-				"Olga":
+				"olga": 
 				{
 					"id": 1,
 					"evets":
@@ -19,28 +19,34 @@
 				}
 			}
 			{
-				"id": 2,
-				"evets":
-				[
-					{
-						"type": "tricot"
-					},
-					{
-						"type": "cloth"
-					},
-				]
+				"slava":
+				{
+					"id": 2,
+					"evets":
+					[
+						{
+							"type": "tricot"
+						},
+						{
+							"type": "cloth"
+						},
+					]
+				}
 			},
 			{
-				"id": 3,
-				"evets":
-				[
-					{
-						"type": "tricot"
-					},
-					{
-						"type": "cloth"
-					},
-				]
+				"kuat":
+				{
+					"id": 3,
+					"evets":
+					[
+						{
+							"type": "tricot"
+						},
+						{
+							"type": "cloth"
+						},
+					]
+				}
 			},
 		]
 	}
