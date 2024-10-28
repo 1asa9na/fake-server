@@ -1,4 +1,7 @@
-[
+{
+  "incognito": false,
+  "liked": "44 человека тебя лайкнули",
+  "chats": [
 	{
 		"chatTime": "23 ч 43 мин",
 		"chatMsg": "Отлично выглядишь",
@@ -42,3 +45,4 @@
 		"chatIsRead": true
 	}
 ]
+}
